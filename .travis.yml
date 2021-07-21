@@ -6,3 +6,6 @@ python:
 branches:
   only:
   - master
+
+install:
+- echo "hello world"
